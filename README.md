@@ -1,6 +1,5 @@
 # procesamiento de datos
 ## Introdución 
-Introducción:
 En este proyecto se trabajará con una serie de datos para la división de préstamos de un banco.
 
 Con esta información buscaremos la relación entre el estado civil, número de hijos que puedan tener un impacto en el préstamo de un crédito.
